@@ -1,0 +1,6 @@
+config BR2_PACKAGE_JAILHOUSE
+	bool "jailhouse"
+	help
+	  Linux-based partitioning hypervisor
+
+	  https://github.com/siemens/jailhouse
