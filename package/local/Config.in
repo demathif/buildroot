@@ -1,0 +1,4 @@
+config BR2_PACKAGE_LOCAL
+	bool "local"
+	help
+	  A simple package to be used with LOCAL_OVERRIDE_SRCDIR

@@ -1,3 +1,6 @@
+menu "Custom packages"
+	source "package/local/Config.in"
+endmenu
 menu "Target packages"
 
 	source "package/busybox/Config.in"
