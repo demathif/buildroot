@@ -1863,4 +1863,8 @@ menu "Text editors and viewers"
 	source "package/vim/Config.in"
 endmenu
 
+menu "Misc"
+    source "package/hello/Config.in"
+endmenu
+
 endmenu
